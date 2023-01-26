@@ -38,7 +38,7 @@ print("rows", len(df.axes[1])
 ```
 
 ## OUTPUT:
-![Screenshot from 2023-01-26 11-50-20](https://user-images.githubusercontent.com/118749665/214771236-e424893a-bc20-4a3f-9adf-0e5188dd1f0a.png)
+![Screenshot from 2023-01-26 11-50-20](https://user-images.githubusercontent.com/118749665/214771979-96435c31-1fb2-4920-bc09-2d8c4f0158a4.png)
 
 
 ## RESULT:
