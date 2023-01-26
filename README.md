@@ -29,17 +29,13 @@ End the program.
 Developed by: mahesh raj purohit
 registration no: 22008605
 
-'''
-DEVELOPED BY : Koti Sai Sankar
-REGISTER NUMBER : 22001315
-'''
-
 import pandas as pd
 df = pd.read_csv("nba.csv")
 print(df.head(10))
 print(df.tail())
 print("column", len(df.axes[0]))
-print("rows", len(df.axes[1]))
+print("rows", len(df.axes[1])
+```
 
 ## OUTPUT:
 ![Screenshot from 2023-01-26 11-50-20](https://user-images.githubusercontent.com/118749665/214771236-e424893a-bc20-4a3f-9adf-0e5188dd1f0a.png)
